@@ -4,3 +4,4 @@ gitの練習
  git commit
  rm
  gid status
+ git diff
